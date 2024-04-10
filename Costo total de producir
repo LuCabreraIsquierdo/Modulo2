@@ -1,0 +1,104 @@
+---
+title: "Costo total de poseer"
+author: "Lucía Cabrera"
+date: "2024-03-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Informe
+Un costo es el valor monetario que se asigna a los recursos necesarios para llevar a cabo una actividad específica o para producir un bien o servicio. 
+
+| Proveedor  | Producto1 | Producto2 | 
+|----------- |-----------|-----------|
+| Proveed1   | 1354 $    | 3000 $    |
+| Proveed2   | 2500 $    | 1200 $    |
+| 
+
+Para crear la tabla se arma de forma manual en el código con guiones (-) y barras verticales (|), y se completa con los datos necesarios.
+---
+title: "Costo total de poseer"
+author: "Juan Aberastain"
+date: "2024-03-27"
+output: html_document
+
+
+
+# Costo total de poseer
+
+
+Los costos se refieren a los gastos asociados con la planificación, ejecución y finalización de una tarea específica o conjunto de actividades con un objetivo determinado. Estos costos pueden variar dependiendo de la naturaleza y el alcance del proyecto, así como de los recursos requeridos para llevarlo a cabo.
+
+## Tipos de costos al operar un servidor
+
+Cuando se trata de operar un servidor, hay varios tipos de costos involucrados. Entre los costos más comunes podemos encontrar:
+
+1.Costos de hardware: Estos son los gastos iniciales relacionados con la compra del propio servidor. Incluyen el costo del hardware, como el servidor en sí mismo, unidades de almacenamiento, memoria RAM, procesadores, tarjetas de red, etc. Además del costo inicial, también se deben considerar los costos de mantenimiento y reparación a lo largo del tiempo.
+
+2.Costos de software: Estos son los gastos relacionados con el software necesario para operar el servidor. Esto puede incluir el sistema operativo (por ejemplo, Windows Server, Linux), software de virtualización (como VMware o Hyper-V), software de seguridad (antivirus, cortafuegos), herramientas de administración remota y cualquier otra aplicación necesaria para ejecutar aplicaciones específicas en el servidor.
+
+3.Costos de energía y refrigeración: Los servidores consumen energía eléctrica y generan calor, por lo que es necesario considerar los costos asociados con la electricidad y el enfriamiento del centro de datos o el espacio donde se aloja el servidor. Estos costos pueden ser significativos, especialmente para servidores de alto rendimiento o entornos de centro de datos densos.
+
+4.Costos de conectividad: Estos son los gastos asociados con la conexión del servidor a la red. Esto puede incluir el costo de los contratos de servicio de Internet, ancho de banda adicional, líneas dedicadas, routers, switches y otros equipos de red necesarios para garantizar una conectividad confiable y de alta velocidad.
+
+5.Costos de mantenimiento y soporte técnico: Estos son los gastos relacionados con el mantenimiento regular del servidor, actualizaciones de software, parches de seguridad, copias de seguridad y cualquier soporte técnico adicional que pueda ser necesario. Esto puede incluir contratos de servicio con proveedores de hardware y software, así como el tiempo y los recursos dedicados al mantenimiento por parte del personal interno.
+
+6.Costos de licencias y servicios adicionales: Dependiendo de las necesidades del servidor, puede haber costos asociados con licencias de software adicionales, servicios en la nube (como almacenamiento en la nube o servicios de respaldo), y otros servicios complementarios que pueden ser necesarios para el funcionamiento eficiente y seguro del servidor.
+
+
+
+
+|       Tipo de costo      |  costo |         Comentario         |
+|--------------------------|--------|----------------------------|
+| Hardware                 |$1500000|Depende del tipo y uso      |
+| Software                 |$ 200000|                            |
+| E. y ref.                |$  50000|Valor estimativo            |
+| Conectividad             |$ 500000|                            |
+| M. y S. técnico          |$ 100000|Con cierta Frecuencia       |
+| Lic. y serv. adicionales |$  50000|Depende del tipo de servidor|
+
+---
+title: "Costo Total de Poseer"
+author: "Franco La Motta"
+date: "2024-03-27"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Costo Total de Poseer un Servidor
+
+## ¿Qué es un servidor?
+
+Un servidor es una computadora o un programa de software que proporciona servicios, recursos o funcionalidades a otras computadoras, dispositivos o programas, conocidos como clientes. Los servidores están diseñados para manejar solicitudes y proporcionar acceso a recursos como archivos, impresoras, correos electrónicos, bases de datos, páginas web, aplicaciones, juegos en línea, almacenamiento de datos, entre otros.
+
+Los servidores pueden variar en tamaño y capacidad, desde grandes centros de datos que alojan miles de servidores físicos hasta servidores individuales que funcionan en una pequeña empresa o incluso en una computadora personal. Los servidores pueden ofrecer una variedad de servicios, como servidores web, servidores de correo electrónico, servidores de archivos, servidores de base de datos, servidores de juegos, servidores de aplicaciones, servidores de medios, entre otros.
+
+# ¿Qué ventajas tiene poseer un servidor propio?
+- Control total: Con un servidor propio, tienes control completo sobre la configuración, seguridad y recursos del servidor. Esto te permite adaptar el servidor exactamente a tus necesidades específicas.
+
+- Personalización: Puedes personalizar el servidor según tus requisitos exactos de hardware y software. Esto significa que puedes instalar y ejecutar aplicaciones específicas, ajustar la configuración de red y de seguridad según tus necesidades.
+
+- Rendimiento mejorado: Al tener un servidor dedicado para tus aplicaciones y servicios, puedes garantizar un mejor rendimiento y tiempos de respuesta más rápidos. No tienes que compartir recursos con otros usuarios como suele ocurrir en servidores compartidos.
+
+- Seguridad: Tener un servidor propio te brinda un mayor control sobre la seguridad de tus datos y aplicaciones. Puedes implementar medidas de seguridad personalizadas y mantener un monitoreo constante para proteger tu servidor contra amenazas cibernéticas.
+
+- Privacidad y cumplimiento normativo: Para algunas empresas y organizaciones, tener un servidor propio es crucial para cumplir con requisitos de privacidad y regulaciones gubernamentales. Esto les permite mantener el control total sobre sus datos y garantizar el cumplimiento normativo.
+
+- Escalabilidad: Con un servidor propio, puedes escalar tus recursos fácilmente según sea necesario. Puedes agregar más capacidad de almacenamiento, memoria o potencia de procesamiento a medida que tu negocio crece, sin depender de proveedores externos.
+
+- Reducción de costos a largo plazo: Aunque puede haber costos iniciales más altos asociados con la adquisición y configuración de un servidor propio, a largo plazo puede resultar más económico que depender de servicios de alojamiento externos, especialmente para empresas que tienen un uso intensivo de recursos informáticos.
+
+## ¿Cuál  es el costo de adquirir un servidor propio?
+
+
+| Servidor |            Modelo               | Precio      |
+|----------|---------------------------------|-------------|
+|  IBM     |    X3550 M2 Intel Xeon 5520 8gb | $650.000    |
+|  HP      |    Dl380 G10 Dual Xeon Gold     | $2.471.700  |
+|  Dell    |    Poweredge T40 Xeon E-2224    | $1.583.953  |
+|Synology  |    DiskStation DS220+           | USD 678,75  |
+|Synology  |    DiskStation DS920+           | USD 1260,11 |  
